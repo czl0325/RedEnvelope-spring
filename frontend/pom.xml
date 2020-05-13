@@ -15,7 +15,6 @@
     <modules>
         <module>api</module>
         <module>eureka</module>
-        <module>gateway</module>
         <module>job</module>
         <module>msg</module>
         <module>commons</module>
@@ -30,7 +29,7 @@
         <profile>
             <id>dev</id>
             <properties>
-                <config.zk>192.168.193.128:2181</config.zk>
+                <config.zk>127.0.0.1:2181</config.zk>
                 <config.root>prize</config.root>
             </properties>
             <activation>
@@ -141,7 +140,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.60</version>
+            <version>1.2.68</version>
         </dependency>
 
         <dependency>

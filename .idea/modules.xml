@@ -3,7 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/RedEnvelope.iml" filepath="$PROJECT_DIR$/.idea/RedEnvelope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend/api/api.iml" filepath="$PROJECT_DIR$/frontend/api/api.iml" />
       <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend/commons/commons.iml" filepath="$PROJECT_DIR$/frontend/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend/eureka/eureka.iml" filepath="$PROJECT_DIR$/frontend/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend/frontend.iml" filepath="$PROJECT_DIR$/frontend/frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend/job/job.iml" filepath="$PROJECT_DIR$/frontend/job/job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend/msg/msg.iml" filepath="$PROJECT_DIR$/frontend/msg/msg.iml" />
     </modules>
   </component>
 </project>

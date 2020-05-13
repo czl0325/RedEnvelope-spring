@@ -10,7 +10,6 @@ import com.jfinal.core.Controller;
 import com.jfinal.plugin.activerecord.Page;
 import com.jfinal.plugin.activerecord.Record;
 import com.zcurd.account.model.SysUser;
-import com.zcurd.account.model.ZcurdHead;
 import com.zcurd.common.ZcurdConst;
 import com.zcurd.common.util.Pager;
 import com.zcurd.common.util.StringUtil;
