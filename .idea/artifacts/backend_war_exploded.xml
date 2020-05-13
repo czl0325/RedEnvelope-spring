@@ -21,7 +21,7 @@
           <element id="library" level="project" name="Maven: com.alibaba:druid:1.1.19" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.38" />
           <element id="library" level="project" name="Maven: org.freemarker:freemarker:2.3.23" />
-          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.7" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.68" />
           <element id="library" level="project" name="Maven: net.sourceforge.javacsv:javacsv:2.0" />
           <element id="library" level="project" name="Maven: it.sauronsoftware.cron4j:cron4j:2.2.5" />
         </element>
